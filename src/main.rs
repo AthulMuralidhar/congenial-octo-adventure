@@ -57,3 +57,9 @@ fn main() {
     .attach(Template::fairing())
     .launch();
 }
+
+// TODO
+// crawl the internet for just nmap data and store it
+// display per ip the netcat info
+// thats it
+
